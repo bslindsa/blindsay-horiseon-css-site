@@ -1,28 +1,7 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Horiseon Home - Application Description
 
-## User Story
+This application opens up the Horiseon homepage. It has a functional and friendly UI that navigates to sections of the page itself via the navigation bar at the top. The source code uses semantic elements to match accessibility standards. elements in the HTML and CSS code follow a logical structure and CSS codes are organized and commented. All images and icons have proper alt descriptions for accessibility purposes.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
 ## What I Did
 
 In this assignment:
@@ -31,5 +10,14 @@ In this assignment:
 * Classes were also changed to read semantically, and the CSS code was updated to match the classes and tags that were changed in the HTML code. 
 * Comments were also added to the CSS code to describe which sections will format what portions of the web page, for reference.
 * The title of the page was changed to be more descriptive.
+
+## Home Page
+
+![Screenshot of Horiseon home page.](./assets/images/full-page.jpeg)
+
+### Link to Application
+
+(https://bslindsa.github.io/blindsay-horiseon-css-site/#social-media-marketing)
+
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
